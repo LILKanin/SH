@@ -16,4 +16,3 @@ window.addEventListener("load", () => {
   );
   document.querySelector(".class1").innerHTML = `ЗДАРОВА ${name}`;
 });
-window.addEventListener("")

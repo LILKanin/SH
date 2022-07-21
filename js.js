@@ -9,10 +9,10 @@ function closeNav() {
   document.getElementById("myNav").style.width = "0%";
 }
 
-window.addEventListener("load", () => {
-  let name = prompt(
-    "Как вас зовут",
-    ""
-  );
-  document.querySelector(".class1").innerHTML = `ЗДАРОВА ${name}`;
-});
+// window.addEventListener("load", () => {
+//   let name = prompt(
+//     "Как вас зовут",
+//     ""
+//   );
+//   document.querySelector(".class1").innerHTML = `ЗДАРОВА ${name}`;
+// });
